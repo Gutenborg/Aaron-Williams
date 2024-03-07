@@ -12,3 +12,19 @@ An experienced Front-End Developer with a background in design. Started out as a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutenborg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Passion Projects
+
+### Your City Podcast
+![](https://storage.buzzsprout.com/variants/pvs1rqv3zy2jg7c3q1ttqx2s0t0k/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg)
+I run a podcast that focuses on cities, community, and getting to know your neighbors and leaders. We've done 3 seasons, each focused on a different city, and we talk with city leadership, local business owners, community leaders, and local historians to learn more about the city. I created all of the branding for the project as well as handle all of the production myself with some setup help from my wife. You can check out the podcast wherever you prefer to find podcasts, or watch the videos on YouTube.
+
+[Podcast Website](https://www.yourcity.studio/)
+[YouTube Channel](https://www.youtube.com/channel/UCymzv6aioviTBh0EDH75p6A)
+
+### Strong Towns Seacoast
+![](https://substackcdn.com/image/fetch/w_300,h_300,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3594824-3439-45dd-b668-060f0f4665d2_1000x1000.jpeg)
+I lead a monthly meetup to bring people together who are interested in sustable city development and building community. We talk and discuss problems facing the community and strategize on ways to engage the city on these issues. I also write a twice-monthly newsletter to share the meeting conversations as well as related topics to a broader audience and encourage attendance. This meeting is a part of the Strong Towns Local Conversation program.
+
+[Strong Towns Seacoast Newsletter](https://strongtownsseacoast.substack.com/)
+[Strong Towns Local Conversation Program](https://www.strongtowns.org/local)
