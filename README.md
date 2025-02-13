@@ -21,12 +21,14 @@ A mortgage calculator built in React, Svelte, and Vanilla JavaScript.
 
 ### Sweet Ting's Brochure Site
 [Check Out the Source](https://github.com/Gutenborg/Sweet-Tings-Brochure-Site)
+
 [See it in Action](https://sweet-tings-brochure-site.vercel.app/)
 
 A brochure website for my wife's amazing cookies! Written in Vue and TypeScript.
 
 ### Filmventory
 [Check Out the Source](https://github.com/Gutenborg/Filmventory)
+
 [See it in Action](https://filmventory.vercel.app/#/)
 
 A movie lookup website. Written in React and TypeScript and uses The Movie Database Public API.
