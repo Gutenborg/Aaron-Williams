@@ -13,6 +13,7 @@ An experienced Front-End Developer with a background in design. Started out as a
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Portfolio Projects
+A few projects that I put together to display an array of skills that I have or to explore an area that I want to learn more about.
 
 ## Mortgage Calculator
 [Check Out the Source](https://github.com/Gutenborg/mortgage-calculator)
@@ -34,6 +35,8 @@ A brochure website for my wife's amazing cookies! Written in Vue and TypeScript.
 A movie lookup website. Written in React and TypeScript and uses The Movie Database Public API.
 
 # Passion Projects
+
+Personal projects that I care deeply about and want to pursue.
 
 ## Your City Podcast
 ![](https://storage.buzzsprout.com/variants/pvs1rqv3zy2jg7c3q1ttqx2s0t0k/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg)
