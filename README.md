@@ -18,7 +18,7 @@ A few projects that I put together to display an array of skills that I have or 
 ## Mortgage Calculator
 [Check Out the Source](https://github.com/Gutenborg/mortgage-calculator)
 
-A mortgage calculator built in React, Svelte, and Vanilla JavaScript.
+A mortgage calculator built in React, Svelte, Vue, and Vanilla JavaScript.
 
 ## Sweet Ting's Brochure Site
 [Check Out the Source](https://github.com/Gutenborg/Sweet-Tings-Brochure-Site)
