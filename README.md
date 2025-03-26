@@ -50,7 +50,7 @@ I run a podcast that focuses on cities, community, and getting to know your neig
 ## Strong Towns Seacoast
 ![](https://substackcdn.com/image/fetch/w_300,h_300,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3594824-3439-45dd-b668-060f0f4665d2_1000x1000.jpeg)
 
-I lead a monthly meetup to bring people together who are interested in sustable city development and building community. We talk and discuss problems facing the community and strategize on ways to engage the city on these issues. I also write a twice-monthly newsletter to share the meeting conversations as well as related topics to a broader audience and encourage attendance. This meeting is a part of the Strong Towns Local Conversation program.
+I lead a monthly meetup to bring people together who are interested in sustainable city development and building community. We talk and discuss problems facing the community and strategize on ways to engage the city on these issues. I also write a twice-monthly newsletter to share the meeting conversations as well as related topics to a broader audience and encourage attendance. This meeting is a part of the Strong Towns Local Conversation program.
 
 [Strong Towns Seacoast Newsletter](https://strongtownsseacoast.substack.com/)
 
