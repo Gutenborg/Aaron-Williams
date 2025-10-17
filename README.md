@@ -45,9 +45,7 @@ Personal projects that I care deeply about and want to pursue.
 ## Your City Podcast
 ![](https://storage.buzzsprout.com/variants/pvs1rqv3zy2jg7c3q1ttqx2s0t0k/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg)
 
-I run a podcast that focuses on cities, community, and getting to know your neighbors and leaders. We recorded 3 seasons, each focused on a different city, and we talk with city leadership, local business owners, community leaders, and local historians to learn more about the city. I created all of the branding for the project as well as handle all of the production myself with some setup help from my wife. You can check out the podcast wherever you prefer to find podcasts, or watch the videos on YouTube.
-
-[Podcast Website](https://www.yourcity.studio/)
+I run a podcast that focuses on cities, community, and getting to know your neighbors and leaders. We recorded 3 seasons, each focused on a different city, and we talk with city leadership, local business owners, community leaders, and local historians to learn more about the city. I created all of the branding for the project as well as handle all of the production myself with some setup help from my wife. You can check out the podcast on YouTube.
 
 [YouTube Channel](https://www.youtube.com/channel/UCymzv6aioviTBh0EDH75p6A)
 
