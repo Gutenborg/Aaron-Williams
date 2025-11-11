@@ -18,6 +18,8 @@ A few projects that I put together to display an array of skills that I have or 
 ## Logical Elements
 [Check Out the Documentation](https://github.com/Gutenborg/logical-elements)
 
+[See it in Action](https://logical-elements.vercel.app/)
+
 A front-end framework that creates logical html elements that provides the tools needed to start using logic in your HTML as well as author your own logical elements. It provides reactivity, state management, reactive html attributes, event management, and more!
 
 ## Mortgage Calculator
