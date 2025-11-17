@@ -25,7 +25,7 @@ A front-end framework that creates logical html elements that provides the tools
 ## Mortgage Calculator
 [Check Out the Source](https://github.com/Gutenborg/mortgage-calculator)
 
-A mortgage calculator built in React, Svelte, Vue, and Vanilla JavaScript.
+A mortgage calculator built in React, Svelte, Vue, Vanilla JavaScript, and my own personal framework Logical Elements.
 
 ## Sweet Ting's Brochure Site
 [Check Out the Source](https://github.com/Gutenborg/Sweet-Tings-Brochure-Site)
